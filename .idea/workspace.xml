@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fa28015-33db-4366-87c8-a4c43eee0d25" name="Changes" comment="19.12">
+    <list default="true" id="7fa28015-33db-4366-87c8-a4c43eee0d25" name="Changes" comment="20/12">
+      <change afterPath="$PROJECT_DIR$/module_2_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
     "Python.module_2_2.executor": "Run",
     "Python.module_2_4.executor": "Run",
     "Python.module_2_4_DEMO.executor": "Run",
+    "Python.module_2_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -134,14 +135,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734706898768</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="20/12">
+      <option name="closed" value="true" />
+      <created>1734707998989</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734707998989</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW 2 module" />
     <MESSAGE value="18.12" />
     <MESSAGE value="19.12" />
-    <option name="LAST_COMMIT_MESSAGE" value="19.12" />
+    <MESSAGE value="20/12" />
+    <option name="LAST_COMMIT_MESSAGE" value="20/12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -149,11 +159,6 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_2_4_DEMO.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
